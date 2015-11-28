@@ -1,14 +1,17 @@
-# Creative Theme for Jekyll
+# Jekyll Modern Blog
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+A Simple, Clean and responsive modern blog for jekyll.
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+## Attributions
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
-## To use the Creative Theme template in your project
+## License
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
+Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
+Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+Changes being that I made it jekyll ready and smushed the CSS together.
